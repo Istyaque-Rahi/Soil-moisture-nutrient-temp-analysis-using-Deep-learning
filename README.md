@@ -1,1 +1,1 @@
-# Soil-moisture-nutrient-temp-analysis-using-Deep-learning
+# Soil-moisture-nutrient-tempreture-analysis-using-Deep-learning
